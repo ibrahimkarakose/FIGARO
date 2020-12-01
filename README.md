@@ -1,2 +1,2 @@
-# Galileo
-Accelerometer Device Design by Integration of Intel Galileo Development Board and MEMS Circuit
+FIGARO
+Accelerometer Device Design by ADXL345 MEMS and ARDUINO Board by Python

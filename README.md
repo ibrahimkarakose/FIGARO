@@ -1,6 +1,6 @@
 
 # FIGARO 
-_**by A.Komec Mutlu, U.Mert Tugsal, A.A.Dindar,S.C. Tunc, D.Erkek**_
+_**by A.Komec Mutlu, U.Mert Tugsal, A.A.Dindar, S.C. Tunc, D.Erkek**_
 
 - Project Name: Accelerometer Device Design by Integration of Arduino UNO and MEMS Circuit 
 - Project ID : 2020-A-105-41 GTU Research Project
